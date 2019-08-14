@@ -1,0 +1,22 @@
+{
+  "name": "node.js-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasDreessen/node.js-introduction.git"
+  },
+  "author": "jonas dreessen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasDreessen/node.js-introduction/issues"
+  },
+  "homepage": "https://github.com/JonasDreessen/node.js-introduction#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4"
+  }
+}
